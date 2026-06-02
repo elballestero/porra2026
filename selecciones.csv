@@ -1,0 +1,49 @@
+SELECCION;BANDERA;GRUPO;PRECIO;PJ;PG;PE;PP;GF;GC;EXP;PUNTOSGRUPO;PUNTOSPORRA;VECESUSADO;RONDA;STATUS
+México;MEX.png;Grupo A;9;0;0;0;1;1;2;0;0;7;0;48;YES
+Sudáfrica;RSA.png;Grupo A;2;0;0;1;0;0;0;0;0;0;0;48;NO
+Corea del Sur;KOR.png;Grupo A;3;0;1;0;0;2;1;0;0;7;0;48;YES
+Chequia;CZE.png;Grupo A;4;0;0;1;0;0;0;1;0;7;0;48;YES
+Canadá;CAN.png;Grupo B;6;0;0;0;0;0;0;1;0;0;0;48;YES
+Bosnia H.;BIH.png;Grupo B;5;0;0;0;0;0;0;0;0;7;0;48;YES
+Catar;QAT.png;Grupo B;2;0;0;0;0;0;0;0;0;7;0;48;YES
+Suiza;SUI.png;Grupo B;9;0;0;0;0;0;0;0;0;7;0;48;YES
+Brasil;BRA.png;Grupo C;20;0;0;0;0;0;0;0;0;7;0;48;YES
+Marruecos;MAR.png;Grupo C;13;0;0;0;0;0;0;0;0;7;0;48;YES
+Haití;HAI.png;Grupo C;1;0;0;0;0;0;0;0;0;7;0;48;YES
+Escocia;SCO.png;Grupo C;5;0;0;0;0;0;0;0;0;0;0;48;YES
+Estados Unidos;USA.png;Grupo D;11;0;0;0;0;0;0;0;0;8;0;48;YES
+Paraguay;PAR.png;Grupo D;6;0;0;0;0;0;0;0;0;0;0;48;YES
+Australia;AUS.png;Grupo D;3;0;0;0;0;0;0;0;0;4;0;48;YES
+Turquía;TUR.png;Grupo D;9;0;0;0;0;0;0;0;0;0;0;48;YES
+Alemania;GER.png;Grupo E;17;0;0;0;0;0;0;0;0;3;0;48;YES
+Curaçao;CUW.png;Grupo E;1;0;0;0;0;0;0;0;0;0;0;48;YES
+Costa de Marfil;CIV.png;Grupo E;4;0;0;0;0;0;0;0;0;2;0;48;YES
+Ecuador;ECU.png;Grupo E;8;0;0;0;0;0;0;0;0;4;0;48;YES
+Países Bajos;NED.png;Grupo F;16;0;0;0;0;0;0;0;0;11;0;48;YES
+Japón;JPN.png;Grupo F;13;0;0;0;0;0;0;0;0;2;0;48;YES
+Suecia;SWE.png;Grupo F;7;0;0;0;0;0;0;0;0;5;0;48;YES
+Túnez;TUN.png;Grupo F;3;0;0;0;0;0;0;0;0;0;0;48;YES
+Bélgica;BEL.png;Grupo G;14;0;0;0;0;0;0;0;0;1;0;48;YES
+Egipto;EGY.png;Grupo G;4;0;0;0;0;0;0;0;0;0;0;48;YES
+Irán;IRN.png;Grupo G;3;0;0;0;0;0;0;0;0;0;0;48;YES
+Nueva Zelanda;NZL.png;Grupo G;1;0;0;0;0;0;0;0;0;1;0;48;YES
+España;ESP.png;Grupo H;24;0;0;0;0;0;0;0;0;1;0;48;YES
+Cabo Verde;CPV.png;Grupo H;1;0;0;0;0;0;0;0;0;1;0;48;YES
+Arabia Saudí;KSA.png;Grupo H;2;0;0;0;0;0;0;0;0;1;0;48;YES
+Uruguay;URU.png;Grupo H;11;0;0;0;0;0;0;0;0;1;0;48;YES
+Francia;FRA.png;Grupo I;23;0;0;0;0;0;0;0;0;1;0;48;YES
+Senegal;SEN.png;Grupo I;7;0;0;0;0;0;0;0;0;1;0;48;YES
+Irak;IRQ.png;Grupo I;1;0;0;0;0;0;0;0;0;0;0;48;YES
+Noruega;NOR.png;Grupo I;15;0;0;0;0;0;0;0;0;0;0;48;YES
+Argentina;ARG.png;Grupo J;20;0;0;0;0;0;0;0;0;0;0;48;YES
+Argelia;ALG.png;Grupo J;3;0;0;0;0;0;0;0;0;23;0;48;YES
+Austria;AUT.png;Grupo J;6;0;0;0;0;0;0;0;0;3;0;48;YES
+Jordania;JOR.png;Grupo J;1;0;0;0;0;0;0;0;0;4;0;48;YES
+Portugal;POR.png;Grupo K;19;0;0;0;0;0;0;0;0;0;0;48;YES
+R.D. Congo;COD.png;Grupo K;2;0;0;0;0;0;0;0;0;0;0;48;YES
+Uzbekistán;UZB.png;Grupo K;1;0;0;0;0;0;0;0;0;5;0;48;YES
+Colombia;COL.png;Grupo K;14;0;0;0;0;0;0;0;0;5;0;48;YES
+Inglaterra;ENG.png;Grupo L;22;0;0;0;0;0;0;0;0;0;0;48;YES
+Croacia;CRO.png;Grupo L;9;0;0;0;0;0;0;0;0;6;0;48;YES
+Ghana;GHA.png;Grupo L;3;0;0;0;0;0;0;0;0;0;0;48;YES
+Panamá;PAN.png;Grupo L;1;0;0;0;0;0;0;0;0;0;0;48;YES
