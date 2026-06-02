@@ -9,9 +9,10 @@ def main(page: ft.Page):
     page.window.width = 400
     page.window.height = 800
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
+    page.assets_dir = "assets"
 
     page.fonts = {
-        "Retro8Bit": "https://fonts.gstatic.com/s/pressstart2p/v15/e3t4ve96Z8rk0RWmr5_6BpX6-D_LswS66V776A.ttf"
+        "Retro8Bit": "PressStart2P.ttf" # No pongas 'assets/', Flet ya sabe que está ahí
     }
 
     def ir_a_precios(_): 
