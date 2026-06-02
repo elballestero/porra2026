@@ -11,7 +11,7 @@ def main(page: ft.Page):
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
 
     page.fonts = {
-        "Retro8Bit": "https://github.com/google/fonts/raw/main/ofl/pressstart2p/PressStart2P-Regular.ttf"
+        "Retro8Bit": "https://fonts.gstatic.com/s/pressstart2p/v15/e3t4ve96Z8rk0RWmr5_6BpX6-D_LswS66V776A.ttf"
     }
 
     def ir_a_precios(_): 
