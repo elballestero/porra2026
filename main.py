@@ -303,4 +303,4 @@ def main(page: ft.Page):
 
     ir_a_inicio()
 
-ft.app(target=main, view=ft.AppView.WEB_BROWSER, port=8000)
+ft.app(target=main, view=ft.AppView.WEB_BROWSER)
